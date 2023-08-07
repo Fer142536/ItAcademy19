@@ -1,0 +1,15 @@
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.csproj.AssemblyReference.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.AssemblyInfoInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.AssemblyInfo.cs
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.csproj.CoreCompileInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\bin\Debug\net6.0\01_Anulavel.exe
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\bin\Debug\net6.0\01_Anulavel.deps.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\bin\Debug\net6.0\01_Anulavel.runtimeconfig.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\bin\Debug\net6.0\01_Anulavel.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\bin\Debug\net6.0\01_Anulavel.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\refint\01_Anulavel.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\01_Anulavel.genruntimeconfig.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\01_Anulavel\obj\Debug\net6.0\ref\01_Anulavel.dll

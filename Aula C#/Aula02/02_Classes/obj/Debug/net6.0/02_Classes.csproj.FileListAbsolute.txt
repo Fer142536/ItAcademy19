@@ -1,0 +1,15 @@
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.csproj.AssemblyReference.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.AssemblyInfoInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.AssemblyInfo.cs
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.csproj.CoreCompileInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\bin\Debug\net6.0\02_Classes.exe
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\bin\Debug\net6.0\02_Classes.deps.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\bin\Debug\net6.0\02_Classes.runtimeconfig.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\bin\Debug\net6.0\02_Classes.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\bin\Debug\net6.0\02_Classes.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\refint\02_Classes.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\02_Classes.genruntimeconfig.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula02\02_Classes\obj\Debug\net6.0\ref\02_Classes.dll
