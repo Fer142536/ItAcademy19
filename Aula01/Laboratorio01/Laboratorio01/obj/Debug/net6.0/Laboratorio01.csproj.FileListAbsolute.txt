@@ -1,0 +1,15 @@
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\bin\Debug\net6.0\Laboratorio01.exe
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\bin\Debug\net6.0\Laboratorio01.deps.json
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\bin\Debug\net6.0\Laboratorio01.runtimeconfig.json
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\bin\Debug\net6.0\Laboratorio01.dll
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\bin\Debug\net6.0\Laboratorio01.pdb
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.csproj.AssemblyReference.cache
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.AssemblyInfoInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.AssemblyInfo.cs
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.csproj.CoreCompileInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.dll
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\refint\Laboratorio01.dll
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.pdb
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\Laboratorio01.genruntimeconfig.cache
+C:\Users\F_Souza\ItAcademy19\Aula01\Laboratorio01\Laboratorio01\obj\Debug\net6.0\ref\Laboratorio01.dll
