@@ -66,7 +66,7 @@ class Program
 
         //manipulação de propriedade
         Console.WriteLine("\nNome do cliente é: "+c.Nome);
-        c.Nome = "Milena Petersen";
+        c.Nome = "Fernanda Souza";
         Console.WriteLine("Nome do cliente é: "+c.Nome);
     }
 
