@@ -1,0 +1,15 @@
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\bin\Debug\net6.0\Laboratorio4.exe
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\bin\Debug\net6.0\Laboratorio4.deps.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\bin\Debug\net6.0\Laboratorio4.runtimeconfig.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\bin\Debug\net6.0\Laboratorio4.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\bin\Debug\net6.0\Laboratorio4.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.csproj.AssemblyReference.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.AssemblyInfoInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.AssemblyInfo.cs
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.csproj.CoreCompileInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\refint\Laboratorio4.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\Laboratorio4.genruntimeconfig.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Laboratorio4\obj\Debug\net6.0\ref\Laboratorio4.dll

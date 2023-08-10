@@ -1,0 +1,15 @@
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\bin\Debug\net6.0\Construtor.exe
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\bin\Debug\net6.0\Construtor.deps.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\bin\Debug\net6.0\Construtor.runtimeconfig.json
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\bin\Debug\net6.0\Construtor.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\bin\Debug\net6.0\Construtor.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.csproj.AssemblyReference.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfoInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfo.cs
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\refint\Construtor.dll
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.pdb
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\Construtor.genruntimeconfig.cache
+C:\Users\F_Souza\ItAcademy19\Aula C#\Aula03\Construtor\obj\Debug\net6.0\ref\Construtor.dll
