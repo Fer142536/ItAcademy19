@@ -1,17 +1,16 @@
-using DemoCepRest.Services;
+using Microsoft.EntityFrameworkCore;
+using DemoLojinha.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddCors(options => {
-    options.AddPolicy("PermiteTudo", policy => {
-        policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader();
-    });
+builder.Services.AddDbContext<LojinhaContext>(opcoes => {
+    opcoes.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    opcoes.EnableSensitiveDataLogging().LogTo(Console.WriteLine);
+    
 });
-
-builder.Services.AddSingleton<ICepRepository, CepRepositoryMemory>();
+builder.Services.AddScoped<IProdutosRepository, ProdutosRepositoryEF>();
+builder.Services.AddScoped<IPedidosRepository, PedidosRepositoryEF>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -27,8 +26,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-app.UseCors();
 
 app.UseAuthorization();
 
